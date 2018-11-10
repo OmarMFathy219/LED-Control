@@ -1,0 +1,14 @@
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\bin\Debug\LED Control.exe.config
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\bin\Debug\LED Control.exe
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\bin\Debug\LED Control.pdb
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\bin\Debug\MetroFramework.Design.dll
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\bin\Debug\MetroFramework.dll
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED Control.csprojAssemblyReference.cache
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED_Control.Form1.resources
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED_Control.Properties.Resources.resources
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED Control.csproj.GenerateResource.cache
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED Control.csproj.CoreCompileInputs.cache
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED Control.csproj.CopyComplete
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED Control.exe
+C:\Users\Omar M. Fathy\Documents\LED Control\LED Control\obj\Debug\LED Control.pdb
